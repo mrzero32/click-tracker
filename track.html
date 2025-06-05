@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8" /><title>Redirecting...</title></head>
+<body>
+<script>
+(async () => {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get("id");
+  if (!id) {
+    document.body.innerText = "Missing software ID";
+    return;
+  }
+
+  const softwareDB = {
+    "Miracle3.40": {
+      name: "Miracle Thunder 3.40",
+      url: "https://disk.yandex.com/client/disk/MIracle%20Thunder%20Edition%202.82"
+    }
+    // Aap yahan aur softwares bhi add kar sakte hain
+  };
+
+  if (!softwareDB[id]) {
+    document.body.innerText = "Unknown software ID";
+    return;
+  }
+
+  const software = softwareDB[id];
+
+  const logData = {
+    id: id,
+    name: software.name,
+    url: software.url,
+    time: new Date().toISOString(),
+    referrer: document.referrer || "direct",
+    agent: navigator.userAgent
+  };
+
+  // Yahan apna Google Apps Script Web App URL daalein
+  const webAppURL = "https://script.google.com/macros/s/AKfycbybqwG9bMiDT-GJYIDGY6uOXVqmSZdMxrEIQn1ki08lCQhxqSbD80n8-aoSjKAFVHLk/exec";
+
+  try {
+    await fetch(webAppURL, {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify(logData)
+    });
+  } catch(e) {
+    console.error("Logging failed", e);
+  }
+
+  document.body.innerText = "Redirecting...";
+  setTimeout(() => {
+    window.location.href = software.url;
+  }, 1200);
+})();
+</script>
+</body>
+</html>

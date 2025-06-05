@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8" /><title>Redirecting...</title></head>
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting...</title>
+</head>
 <body>
 <script>
 (async () => {
@@ -16,7 +19,7 @@
       name: "Miracle Thunder 3.40",
       url: "https://disk.yandex.com/client/disk/MIracle%20Thunder%20Edition%202.82"
     }
-    // Aap yahan aur softwares bhi add kar sakte hain
+    // Add more software entries here
   };
 
   if (!softwareDB[id]) {
@@ -35,7 +38,6 @@
     agent: navigator.userAgent
   };
 
-  // Yahan apna Google Apps Script Web App URL daalein
   const webAppURL = "https://script.google.com/macros/s/AKfycbybqwG9bMiDT-GJYIDGY6uOXVqmSZdMxrEIQn1ki08lCQhxqSbD80n8-aoSjKAFVHLk/exec";
 
   try {
@@ -44,7 +46,7 @@
       headers: {"Content-Type": "application/json"},
       body: JSON.stringify(logData)
     });
-  } catch(e) {
+  } catch (e) {
     console.error("Logging failed", e);
   }
 

@@ -1,3 +1,6 @@
+START=June 19, 2025 04:10:00 GMT+0500
+INTERVAL=5
+
 https://mega.nz/file/Gc9D0BBb#uUtZdteiRMIh6nEloO5-9hIF1Xyp3YF60E9r_tvcNW4
 https://mega.nz/file/OR8nFTRT#lEBdKfHT1OqUwM3GgxvgtSd0l7EycIcSxud1w6CFUok
 https://mega.nz/file/WBM3ERzT#jMzaT_mTK4n6n7DrjjVDveyIaTDkZsjfU5-9usNwXkc
@@ -42,7 +45,3 @@ https://mega.nz/file/vMcnmBbD#ySg2fsbZjBwzLyxkAFW1LF1W-hzhcKlCJNNALKTkneY
 https://mega.nz/file/DVkBAbrS#B-p3dpqO7bOZuIho-bZTyIOGPURgbKZkZKzg2mbZgRY
 https://mega.nz/file/zNEDUCCC#3w9eatOtjh6vZKK6oEWY0e_8C7W8gtxmyDVpnLp7qf0
 https://mega.nz/file/TddiXLga#qkHrzLN-JFMSvlwH5tHg8ms5m5_rdvgYjbJmvAQxoqc
-
-
-START=2025-06-19T04:10:00+05:00
-INTERVAL=5

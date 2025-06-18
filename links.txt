@@ -16,6 +16,6 @@ https://mega.nz/file/W8IzQYRZ#qPqmYP8x77HqPfl1Sirtdng20PVBJdY9F-B2nK2E0kk
 https://mega.nz/file/KsJyjbhJ#gkqvcJ3RsAX0rZSij4WkDnQj5UtKs6n6_vhVp_JoNvk
 https://mega.nz/file/q95wkATI#Nyn900OBbM0G2M35ZgDZ5g8LOPy62wCO0Sw0bJ00nmg
 
-START=2025-06-17T03:18:00+05:00
+START=2025-06-17T06:23:00+05:00
 INTERVAL=5
 

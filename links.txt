@@ -1,30 +1,18 @@
-START=June 20, 2025  01:00:00 GMT+0500
+START=June 20, 2025  03:15:00 GMT+0500
 INTERVAL=5
 
-https://mega.nz/file/HE9XDKDQ#NIdM-bR41QVm5W3_lf8WLlV02p7XCZCRR_1gox2UvWw
-https://mega.nz/file/fZc3SDzR#EVNGvFBfoZM0XfSqawdyvNAdzp3VqwgM-1Tnich6VVE
-https://mega.nz/file/f040xAgK#mWgxldWxPEvzpJ79xnKumbqQrr4Uyo0VkIPyF9ZH2dA
-https://mega.nz/file/bwgSQA7a#P3MOKRIEmyuW3HY6gt2ef9_nhW1HI-UWfmntgxxjQI8
-https://mega.nz/file/L0AxWb5Q#xq7Qjv4Ns2EXz03ppgmiWBv3wnHvPetCeRkLZvulBBI
-https://mega.nz/file/7ph0GJIR#0pkI4B4vReKX4z9uc9wAp2DOj4kBhkyAB079kh8iqp0
-https://mega.nz/file/2wogmLLA#u8j92S_8qVH7AH0WElTBD_o3D7XsxW2z5su1khMshpg
-https://mega.nz/file/7hBgXLBC#Tbdryr87EHrASHTjmXoiiSaq1Kr2P9sAiVwzznoI4Co
-https://mega.nz/file/Xxhk3I5I#zVsY9DafVs6CP-10BmUdCAvrJgbDSpicgSgmTRhJI8s
-https://mega.nz/file/DxgWXQ5T#u2o739WtFu8OHgKsMy8A0U6MwERDwiE5lSdgWY7wDbg
-https://mega.nz/file/WpJWWYCC#TNI34FyewGtrpn4gQBR-IDZEfW8sIkDEiecoVoNsQkk
-https://mega.nz/file/O4Al1bLZ#5_9BSbYoJJ-6c3FWm25O1_hwRyYxfb2IT6cQP63EOQE
-https://mega.nz/file/v1RQRbgQ#se6AIh-lb0eRWix5foCq1uksqeuVuOo0ujCKSFQBz1g
-https://mega.nz/file/ShJwjQrB#flDKcHordnBeXrLcs1udUDykg9WdCHgI46xm7pBorGc
-https://mega.nz/file/LspVFbYD#aI6oWI7TBpumIPRMvEGJeeOBP4xx4v_k8yO-MJcra8s
-https://mega.nz/file/z950hJiK#ShxQbdp4cJjXiw-tdjkgehIxCnygRH8XJJ1Ff0me_s0
-https://mega.nz/file/b0xTxTbT#G8VdDlX-_3U-bQareqNBshY8kW-VoSdypvQiFayM-B0
-https://mega.nz/file/P9pESR6Y#jTtOQjBLsCclJ6dA9YV3-7fmHZcMO8lFb8FYO-I_P3s
-https://mega.nz/file/nEVAnKwZ#H_vjTlegC1DqpF-F52fU9b_97pEDA--fGRe0x7YxjlE
-https://mega.nz/file/ydtCBbLI#V9WlUiqcF5tbTtjDatIt3sXBpZ9YjmwjEHeJgEjpAOo
-https://mega.nz/file/zU03kAxa#6XYsAP3H_YL6HognHP0Pew5wYnf7Y0NHf7uddHZlhiI
-https://mega.nz/file/zA92AaKI#pbZlKH5dp1QCYBVfSsGx17phvAp-cHDrkQiz7vLLcfg
-https://mega.nz/file/qMEWGARb#0kk8VgG_2LHWbgA-I27_vkJPvmdSXZ9io-r-Yep3qLg
-https://mega.nz/file/6REWGL4D#O1o4mNJxWWvyeFCI38ZQNoPgH1wYgoZjuaTSmHw_Bnk
-https://mega.nz/file/SAEAmLxK#-PNJvxLo3m1FPPt5b-JlzvDmszjbaFg1qq7gA6G5Rp0
-https://mega.nz/file/fI8TjKqA#dwnoitHqOw1G4dQ7LaCFNXz62wDokr3ftNHicsErSCY
-https://mega.nz/file/XNNVlQLK#GtuuKIS9J9W0Gt_kOTjGHK3xewSYbtr_0_iE0v9Nocw
+https://mega.nz/file/eZtDwTxT#pjhcaFgCyHnknlip8aXettcALlmUGaxDk8lqNlOsnWo
+https://mega.nz/file/yZ9FBLqZ#AL4EY4BP27sXb5JQcGndXRTHNTsIG2WVk2MFlGeRW6o
+https://mega.nz/file/DMNTTTxT#ztg5ZDv-6175cJ4mPZHk_-pPSA5Z9JHnIfu4OTdDiR4
+https://mega.nz/file/fYUlVCZZ#UFfwl6oG16FpmWWNZcRaTKqyooPKFPMfS7xgabZQh8Y
+https://mega.nz/file/jAdSzIyC#0pkMrEdpPhUHr2aTfVB34GISVCt-hQdoGrV7Xwzn3sE
+https://mega.nz/file/Dh4XRAzB#rxmL4xGkqPVJU86xylsvCp1c_YHe_Y2I6IR3ZToxsfU
+https://mega.nz/file/m9BVjRZC#OibAaeZZVPNGptoqMN-PyVlA2e7POSwEa1CysJPma0g
+https://mega.nz/file/2gxWRYSQ#_qSevgpNIjJwfC4xlZwqOxGZS8zHqa0uFvLW5w5NWMM
+https://mega.nz/file/D9oUHYqI#yHYKs34ukwJIcdE4z1JSKpbS6I7x7_UFoetwhOd_86w
+https://mega.nz/file/e5gmhAwS#Om744FKr7BlrQTLJPx438VLOS6KM-gqG9LaSBA8vWdI
+https://mega.nz/file/6woSjAqI#KvTe3XWeQ37-jyU6m37MUgi_d7VZfxVFjzWYON51mrA
+https://mega.nz/file/fxBwXSpb#mNSzmqxzCkxFcz_c8LB4bFRT3ONYbdULrcIILeLdOZE
+https://mega.nz/file/zhIUEKpL#TgKtzlffWlX-JbK17VSUuq0nnXI9XRW-OFhvD6YGvik
+https://mega.nz/file/CkxwHTaI#FtWK1-QvcK5ih0G_CxaoMarfLcEesoFX8ROwTiSs4NQ
+https://mega.nz/file/jkw3mCBb#F9pRU_yoM8yDkIv4lXmuRx3Nm1_Aq6rSmH6JJQpa8Ic

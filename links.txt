@@ -1,7 +1,6 @@
-START=June 21, 2025 12:30:00 GMT+0500
+START=June 21, 2025 00:40:00 GMT+0500
 INTERVAL=5
 
-https://mega.nz/file/rJsTVBxJ#RzKtHg76l0YlNxkg0bWrtxpXw-nATAgFdrTtgF98dCs
 https://mega.nz/file/mYFCXZYC#_Zf7Rvn5QtGb77OiJzCNDWS6T1dL59CH_d_GNauMjtk
 https://mega.nz/file/fZNjmYwa#5H3i6fZg466B5hTnbHow1kJvn6zlE0_-3LvDx67PcaQ
 https://mega.nz/file/fEsSWajJ#AIwetY_vDUtkAjl2ixaTHm2JiVlyULJBmNNOlgO4rkw

@@ -1,9 +1,6 @@
-START=2025-06-21T01:00:00+05:00
+START=2025-06-21T01:50:00+05:00
 INTERVAL=10
 
-https://mega.nz/file/y4oEBQDZ#CSJToyjLnxTaTORbOzfsNZp56TeM5-D-UlJ3Eo3FI5A
-https://mega.nz/file/TkJE3BYa#ll7sJnCcrjb617kSPcSX7qewPcAsgz0vQB4386bHfhs
-https://mega.nz/file/ThR2gLxL#FpQNVHPVr3CuuBP5DIJycbOjFMzNp5wnYPgl9l3H5gY
 https://mega.nz/file/qJkxWYKS#LydyhNsC_K_Q7dKWC94U4LT7blMayC37Gn6ISj_AZ2s
 https://mega.nz/file/DRMnjSLL#iRCFMNuO1z0smh4jgjsbr1VP_cY0OLnJw4SccVvfoiw
 https://mega.nz/file/vU8QEKID#DPcHyO7QhxIf8bP5-nJv5Vvp79ntNbvMl6qvS-B4TcU

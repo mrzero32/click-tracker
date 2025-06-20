@@ -2,3 +2,5 @@ START=2025-06-21T01:00:00+05:00
 INTERVAL=10
 
 https://mega.nz/file/y4oEBQDZ#CSJToyjLnxTaTORbOzfsNZp56TeM5-D-UlJ3Eo3FI5A
+https://mega.nz/file/TkJE3BYa#ll7sJnCcrjb617kSPcSX7qewPcAsgz0vQB4386bHfhs
+https://mega.nz/file/ThR2gLxL#FpQNVHPVr3CuuBP5DIJycbOjFMzNp5wnYPgl9l3H5gY

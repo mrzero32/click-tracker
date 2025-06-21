@@ -1,5 +1,5 @@
 START=2025-06-21T07:15:00+05:00
-INTERVAL=10
+INTERVAL=5
 
 https://mega.nz/file/YAhUHIaD#l_nceZK9i3LlFQji-lQxKmYVfuVbaaPln_Kuacb-F8g
 https://mega.nz/file/oUgR2IrB#HzxXZCbDKcsECYwbjY4BvCWa5-k7IbAB2WFZEqHTBuE

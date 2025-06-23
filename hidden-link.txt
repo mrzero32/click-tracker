@@ -1,20 +1,9 @@
-START=June 23, 2025 19:40:00 GMT+0500
+START=June 23, 2025 23:10:00 GMT+0500
 INTERVAL=10
 
-https://mega.nz/file/vME0Aaqa#wfQr1a_DpTaoI-WsX1SnNU2SRnjpNam0QKcdpE9wwLQ
-https://mega.nz/file/vAtQmT7b#ZE9g_6XeIZne9VhLSTxKSEE30CYKVWS1M0-Y88_nHd8
-https://mega.nz/file/CFcBSAKR#dTZqpDNIY2j9XGC2GJtCTvQ8KFbl7G1trAECqZievaw
-https://mega.nz/file/bB8BlYpK#Ye8Ju_USRVXvG2CQ6R0VN3-Geo0zqOMAp_PVTjz8JZA
-https://mega.nz/file/3Y1EUbRJ#YGWUBF848kxbn4gIHnF8qcYHhTAzL7Nz2q_Q-1kW94g
-https://mega.nz/file/OVsCTLgR#vAVMA3ryEEUZPBqINyhMABi4ui9A8Yb7GG3An-bF004
-https://mega.nz/file/YVoj0QCI#LLMzojEqAhBNZ_tv7pY9qU3WoRvWMxilVSfK3zZyVM4
-https://mega.nz/file/dc5GFKhJ#i6SsKd_gEwHmffM1UTtLkZRfnxtnKiVV3lDjPpWUIms
-https://mega.nz/file/cMY2hLTY#3JRzLOnvIiKeK7L53CUDxTIgmuJzcl55oucloUnh6lA
-https://mega.nz/file/gRYXQBgC#MN2KIDR5tpJ04xN4plzofKKhG2Fbj0n8iYmqsZFd0lY
-https://mega.nz/file/ARomQS7R#GSsrzDLOAgHkAozKq-VCJWjli_xydDsU4bm5C50MULk
-https://mega.nz/file/RNAz2bJZ#G_-tr_6u_-6n_SVZsl-YisDYXUd-OX_z9kotNHyTHHI
-https://mega.nz/file/TAkxmYDS#iimbC-EJRHS_k8Km1g2gil_abBWDpY21H8c7mKFfbGI
-https://mega.nz/file/DQlXVIJJ#VshpnB8lLZ3EDtAJsmqgU0kklTNU4UF7XPIneTc7Qm8
-https://mega.nz/file/jZdCxSAZ#0X4-tzebEH32a0INx3u__Z3gsSj8spJosIjV41fOVCs
-https://mega.nz/file/vM8SwBYR#_UIOsvoPtdOcDmfsCDmIuy1IQrfEojYv5J6zR0ojUvY
-https://mega.nz/file/eF13URqD#GMkVQrNjnIk3aJRwM8Kfue4QcGPdGTOg0_54lobyCW8
+https://mega.nz/file/NExkDC6A#d7EONQdyPMQ4RXAcAXfe6QOs5oIAsu4bsLkzpEDAhh0
+https://mega.nz/file/tUgRxbBD#bRjjxBmcu6Xhre_iXciTSfAq2d157UWgNuhcWi5Bs90
+https://mega.nz/file/tdYE1Kib#z12-D8bdsHm_FuRnCzof4dQQlWkrDPZBfILsDcM4IOs
+https://mega.nz/file/NQ4RTQrT#kGdkRi0mBe_9Posz3tGlee7CRJ2LFzvHr8Pl51ZH7Sw
+https://mega.nz/file/4BhBjRLJ#qq3hRkzyIoBgZ-2aT6jvRIFSxfpqwh04t48MGfy8slU
+https://mega.nz/file/RcJz0LQS#5T7REPMd5aR0ybUTyM9qMcsZ77-sjxT9cUPBWt-7v6g

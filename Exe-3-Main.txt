@@ -1,14 +1,3 @@
 START=July 03, 2025 20:40:00 GMT+0500
 INTERVAL=5
 
-https://mega.nz/file/KwAA0LaL#cscqVwcfrAEfqwgwL1tkA1A83J0pBArwrOGM_hbUKGQ
-https://mega.nz/file/HpISHbjI#eOiU4luZWoDK7eLDB8-Iqa7kcUiqiffWz1DAUJJ4as4
-https://mega.nz/file/bp4y1DqT#V7tng3hXv92jXgEZ3IH-XWW922DWsomeuu5Cs9RhafM
-https://mega.nz/file/rxxEhYCb#5tjo1oNNvr-jBK_8mwpz2qcNXyx-kJBFEjSzRZW1Vns
-https://mega.nz/file/615U2ayA#k0a_WCZl8ddEsepeQewAz2T-JXhBGVQm9MlebP68r5M
-https://mega.nz/file/S8QBwLBA#aqMDMjgP8UfZ804K8mVU6vvzXYq6hQaqiYBZXZ2sDeI
-https://mega.nz/file/61hzDAbL#TfWKXCPW5tJ1NnM9Bu2kofTM_yz6pocc6wZoz_hmB7I
-https://mega.nz/file/S8hEXTRS#L4t3Z5qjGsz8-nYX1qdkYbdbmIRqsY8-bWkpnNuY07s
-https://mega.nz/file/HpokTSKB#oObglYJRGKCIz13YDraa681P33LhxhhNCLkds8qqLRE
-https://mega.nz/file/O5JViKjA#XRiK0fWpRZ8xQz4uDIuYZGBdIYjTqdkYaG_FUV47lZM
-https://mega.nz/file/G0gg2SLL#dRp96RuSH6rZNg1UssrgnHcV5qcxfxN6vf4nGNBL4Hs

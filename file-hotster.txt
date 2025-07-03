@@ -1,7 +1,6 @@
-START=July 03, 2025 20:45:00 GMT+0500 
+START=July 03, 2025 20:45:00 GMT+0500   Not Live
 INTERVAL=5
 
-https://mega.nz/file/7kZFFaJb#BQWuYe4-BtQ_VrKJcF-lVy0BMEj0fJxqWo3zPHqiP3g
 https://mega.nz/file/KlRyEQwS#u1KXpr7liwkM2SSgMXMevRmvTRYBvWbpi5JZ2vhgIio
 https://mega.nz/file/fwh0mZJS#EiojwoIi7LYk2APmqZdOzR3jNn6qdWwvuRDIO-jMiyM
 https://mega.nz/file/mhZTybDB#7ztJFVPz2mipDR50rVvU7h-o_vJnowiX9d_7wiG63Kw

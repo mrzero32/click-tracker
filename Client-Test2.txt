@@ -1,4 +1,4 @@
-START=July 05, 2025 23:30:00 GMT+0500  
+START=July 06, 2025 04:25:00 GMT+0500  
 INTERVAL=5
 
 https://mega.nz/file/25InjboL#Hr096x24AlFU6H7qr1Orw-GtQzbACt4uP6ijVCfLGdI

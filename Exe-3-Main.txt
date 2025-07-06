@@ -1,6 +1,5 @@
-START=July 06, 2025 15:00:00 GMT+0500  Not Live Waitng 
+START=July 06, 2025 18:05:00 GMT+0500  Not Live Waitng 
 INTERVAL=5
 
-https://mega.nz/file/v1ZCCZ4T#pPlHh29QtsNIKIh-ObIuvWmITcsN2WQy3kOBfjGH8k8
-https://mega.nz/file/T5oG3QQY#TesXbWUeno9Kmwb6qcVNpEzslGobuyEWGzHK6RjmD9M
-https://mega.nz/file/T8Qh0AhL#nPgY3Kgj743Zyv42CMSFCV1Tg5QVtylWEzcKeD7Ksmc
+https://mega.nz/file/j0wCWT4Z#VXK-1DpjT1DPspHFbX-YThCwDrUizePqmubOU5FlfmU
+https://mega.nz/file/zwwUja5a#aeIkiQR8eGnlxBpQMt7qIjpvTfWK3oxpAUUL3VGQock

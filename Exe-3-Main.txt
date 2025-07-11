@@ -2,3 +2,5 @@ START=July 11, 2025 16:30:00 GMT+0500
 INTERVAL=5
 
 https://mega.nz/file/i8ASmaaY#52n3qkpjE1rw_f0dVPnkzPvKnWbBwxUtpRUytSCuxLI
+https://mega.nz/file/2sozlD4D#6H5GoPA2wCTs6Cr0TgmLuqnJcbjYTRCpi87SjvJ575k
+https://mega.nz/file/u1x0mI7B#UjAgzYqrJzyzknh-UikompHlirOt9TY3eD7vzcoU0UU

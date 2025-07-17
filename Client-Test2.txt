@@ -1,21 +1,12 @@
-START=July 17, 2025 14:15:00 GMT+0500 
+START=July 17, 2025 14:45:00 GMT+0500 
 INTERVAL=5
 
-
-https://mega.nz/file/C0o1nYzT#M9GZoidsgE0LN94zb_oU3gXbxivW-9HqN3K8Wuiwcps
-https://mega.nz/file/D0xAQQhK#s7EuoOcZEI52V4x-FM16X6IPbIvoGguywrQ-EuiDIRE
-https://mega.nz/file/C451iaJb#zcJorRzVzZGvA7d8lX9KSiTq__gtBEF_PMEzd-p3A4U
-https://mega.nz/file/T5YGFS4A#BmClhoAtGKqbwKGrsKDN5ycZSL7eWb7os1I86wVqzKk
-https://mega.nz/file/uwYk3RZL#isJJS80C_COkJaZzhwhOuccy9qquqLzSa6qf87tr-0g
-https://mega.nz/file/7k5GlJYT#FFbGeAx055678ajtI0pOKH1-cGkwpFznWCC2AuvXSHc
-https://mega.nz/file/qkxQmCwR#6Ul4b1oIjLo-wyuLRTYN8zsmBMFJB_I3XCGZS1FnTHE
-https://mega.nz/file/ihpzURCa#Da3NbnCUVqOMnDamxlj3gdsAuWQYBST4xa9LOSZJ-7U
-https://mega.nz/file/voQhhQiJ#lP3MHomBGp-NuWRsvBQXjSP2e0hJm_wIMBOQ4kQsAfY
-https://mega.nz/file/CgB1RRBJ#XLEquJN2cQEDKsdyLDC12lyBXROhFf5qScIXxdayEKg
-https://mega.nz/file/HkZCiSBS#47fqeP5vICwQ7wCFvdp53keNk22EusU9UcDXp2l94wc
-https://mega.nz/file/78A3ACBA#DUXLSzDjNwSnHglQc3ukWa0_nCK1Nxa8XhOqnTcmmmQ
-https://mega.nz/file/K4QmTSaD#0GyXZdWAj86J2kAT0Qk0jbSXIHpJQYolh0SF6CwqVeI
-https://mega.nz/file/z1B3SBTC#_EPu3V0dlktDJb_dwJMs2H8Y6BnLOpuSxD7VH_yIbSA
-https://mega.nz/file/O5pVVQrb#mA70CONbwxhb_D-rP3i62K9-B9Bq8VXoI_1Q-s3GNss
-https://mega.nz/file/j1oT1bYD#47TiaErYSjvffv7WRZOipV8Bdkuo-PaRaoY4d9ukl5E
-https://mega.nz/file/6gYCGYBQ#fz4h5XzgUDLxgfUJUaJSRE_uol4bv3t7wjQqqJYwZKc
+https://mega.nz/file/pcxEXLrB#DPK5v7_GKXqC-LUhVQJi1lAEJ7Bj-kjddowlnpt9iGA
+https://mega.nz/file/MNI2BDST#cZQ3VoIoHce_pGNJbpqqHXiwQ2OmReWONPyFiUTWars
+https://mega.nz/file/kBwCAKpS#13ScT4wsD23WvF2LincOsByUUyY-_0wuLcj6aIFmzHo
+https://mega.nz/file/tJ4ViLZI#Mbg5oLsXTc4j2ATdh9X17EgZkPqdradDv9O_6-fhu8I
+https://mega.nz/file/MJYCwTSK#bC4WVVKoS7qgFGd2PaURpJiobHl2Lyuhp8cEoJC1M3s
+https://mega.nz/file/sUBiiY5a#2b1gEZcw6HwhcFHhXHHWO3FkhcqsgYR1aBe-lS3QNyA
+https://mega.nz/file/NAoRybDL#46bP79IzotmvfLCSPPI3Xqg_GB0yoo0TYFwjjX_dUbE
+https://mega.nz/file/VBADkYRS#6KAzCMe5gjlRTaIAdJkvs1OAJwbih1RJ9D5pj38kZtk
+https://mega.nz/file/UcwynbQB#t7LQTgiFXgKDLvoNhTid9UvPjxrZ_dliCo454Z4kItI

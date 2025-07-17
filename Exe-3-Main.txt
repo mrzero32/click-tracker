@@ -1,4 +1,4 @@
-START=July 17, 2025 00:00:00 GMT+0500
+START=July 17, 2025 00:00:00 GMT+0500  not live
 INTERVAL=5
 
 https://mega.nz/file/PhYwULzB#GqRgTwgvsC2zwezRA851Xwvvz2AWcE4kvFtSphO8Ees

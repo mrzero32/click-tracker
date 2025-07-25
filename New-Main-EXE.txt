@@ -1,4 +1,4 @@
-START=July 25, 2025 16:25:00 GMT+0500    oldlink used yet
+START=July 25, 2025 16:25:00 GMT+0500    oldlink not used yet
 INTERVAL=5
 
 https://mega.nz/file/vUcllQaZ#P0dGPdA7tVTHZENWx1GjLiv4IIcjilOc5fpFx2mf35I

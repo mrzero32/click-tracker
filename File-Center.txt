@@ -1,4 +1,4 @@
-START=July 27, 2025 03:10:00 GMT+0500 old not used
+START=July 27, 2025 03:13:00 GMT+0500
 INTERVAL=5
 
 https://disk.yandex.com/d/5iuFoRPZM5AGmg

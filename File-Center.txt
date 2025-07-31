@@ -1,16 +1,18 @@
-START=July 27, 2025 03:18:00 GMT+0500
+START=August 01, 2025 01:05:00 GMT+0500
 INTERVAL=30
 
-https://disk.yandex.com/d/5iuFoRPZM5AGmg
-https://disk.yandex.com/d/hTPvd5bKQbYpxw
-https://disk.yandex.com/d/t7zKiBfa7N_cBQ
-https://disk.yandex.com/d/Ue7ac0aoHSCnMQ
-https://disk.yandex.com/d/acmYjiH1wJJkBA
-https://disk.yandex.com/d/UA6NyFOjMXw42A
-https://disk.yandex.com/d/xJAIFcjPKQbmvw
-https://disk.yandex.com/d/7prLZd1mCWoR6Q
-https://disk.yandex.com/d/3Ix5u00udk_mag
-https://disk.yandex.com/d/6NB2KGE0IS394Q
-https://disk.yandex.com/d/g6N6xTJzASftfg
-https://disk.yandex.com/d/m9wi4wWZvvMKXw
-https://disk.yandex.com/d/nwQP5GA456593g
+https://mega.nz/file/KEkghLBI#CJ8GIgyIfPhxvTAs9__ZQ2EaigaSDK64CGeowJS_4xc
+https://mega.nz/file/7ccSFKxJ#C3l2ERi43Dz5J8gnJMFBLVruOqnthmydfOWhMV-XoAY
+https://mega.nz/file/zMlxTLzb#t5yuDL1J_UKDEr8lwQL624ctAzSqdEDvJQ-bh6YMwnE
+https://mega.nz/file/aU8SWIaa#5HAQBcHR23EhkqjcNSB0EWBjuvSoL7ljiq0hID49RsI
+https://mega.nz/file/7B0xzJIa#enF7rPTltqy0vIPZrQ40PVB7QXKJmMiThtSO38Hahr4
+https://mega.nz/file/7UkBUBKJ#i7GIlxs7LA2ofyCvzgzaQ6smUXTvbIU333Brj2dhXHQ
+https://mega.nz/file/DNNVBDBS#XazgVWIHXYoE48y61MzjjT_i-KZTMWkPpm3Lo21ZAAE
+https://mega.nz/file/KQMGxQgR#SCsoB1xP2zQP2_vf8dO8ltLnLTpEWpBPnBc8d32kfnE
+https://mega.nz/file/TMkmGKIK#A6Uxl2I-JuLF6FHGtGDwbqKXMExt_-E4QnVVIO4Yqm4
+https://mega.nz/file/mYVhVABZ#hYnsxTBPAEL3iH1a03RsIGi4lUuBoRexRbCsFigsbss
+https://mega.nz/file/2VNhmZxZ#diUAkj_mn6mnp9gv9dm4Oog5tbsN9xow9Ndw6BnahGo
+https://mega.nz/file/OJFgDTyK#sclXKSmx4i_S1BrPv4XUP0htS3z7IamheXauiP1By2I
+https://mega.nz/file/6E1lDCgL#BrI1-twPVQCiT8es1elH0E8nuzy1ZdfJ4TUNT4_TNC4
+https://mega.nz/file/PY1lHTqS#vvHOW5a1BjCmKWDuAyfr8ZehGzwVSYf_KHmZiG7g5KE
+https://mega.nz/file/ORUw1JCA#c0VbMS9NlhQu_C1ikCicXDTk29PklB9H4NRftfCL7KE

@@ -1,7 +1,6 @@
 START=August 01, 2025 00:55:00 GMT+0500
 INTERVAL=5
 
-
 https://mega.nz/file/oRIwyDya#iAPZ2NGUdSUYgIZ_JsaihrCTqgBimyj2wa5q8zaEFZ0
 https://mega.nz/file/gUpF2A4K#_vf6bhoWBEHFrUNFhjfMikN7Fl6YCLvMH6n-5aKeX_g
 https://mega.nz/file/hJQQ3ZQB#yxfVrR4FSgWIy_cBUgARb_1k08rf9q00d6FWvh2S0Y4

@@ -1,25 +1,6 @@
-START=August 01, 2025 01:15:00 GMT+0500      old exe link not live
+START=August 01, 2025 15:05:00 GMT+0500
 INTERVAL=5
 
-https://mega.nz/file/oVxR1JSD#riVVLP5hD59ht4LgNLV5aVaHp4ykmW7yiBubPFFFO9E
-https://mega.nz/file/gERlWSpb#g5CMK-B18qAsko5097SbssFh-vzy9W5o83Z0M6ZlrUs
-https://mega.nz/file/gdIDQRDS#L5VDRBZ260zmdY3GmzZliQmndiIFN--9mnVog9iJ1DA
-https://mega.nz/file/RNxm0IRb#ul7JeK6Ylgrm5ADoxRMuvn8GCtEFpu6w3TBmIPbVhZc
-https://mega.nz/file/FYYDhQJT#34-uDUvOwjIs3mP7Js2IkTFygcB2gv2gqgjjAML1Lbc
-https://mega.nz/file/QAxQ3A6Q#eo2HI4a750kphpJMyoJj4g0YIZNBAxskqCql-qUXwPc
-https://mega.nz/file/xNowxTgY#HbFsNuiiTyck0ffAvWfCkFBRT0tkUaPFPyvN70m48pQ
-https://mega.nz/file/8BhFBLiS#Z6f5EPPKJRFJ76CA_L4lJgI9xYkHf3zTn0coMxUnyMc
-https://mega.nz/file/gVZ20Byb#9SQ_W5zKOcMCVtKVhemeNZPs01IEwPQ-0_Tsj75KMmU
-https://mega.nz/file/NQAiEbaK#NmoLhwmut6GYZDWKRwO8ryCA6mlNeVNTrQdXcbpd5KY
-https://mega.nz/file/cdgizRxI#qK3uGCWSm-zUD_m9YGknr_Jw5Qgl9FbYELZhcKS0Nyw
-https://mega.nz/file/hIIXCL6b#2MM30cqnagrYXPWyehztGZA0nmSrwXenaKbzVFtn5Ts
-https://mega.nz/file/NYpQmYRI#9vUBiT87w_W6yfWJlnheZ3kEtmi5h737LtNolaDLe2M
-https://mega.nz/file/QJYRBDKQ#OBKb6cvU8XDdYFyYq3Vf_Y0e1LJEkdi7ZeW1h34qi4g
-https://mega.nz/file/8MZAxQoZ#Ko4pH7Er0BeqV8B0ZmDvraMZ8t6emSJpoD0KAWnP2Ho
-https://mega.nz/file/5ZplGIxK#QGjm87AdNtQ5GlVsfUYy40LwjhhItxmIQf5vq79asl4
-https://mega.nz/file/lcw0QSwQ#2Dge7FavjgxnjDxGO9b_R9cywHWl2fkxvNglFLcFOHI
-https://mega.nz/file/hZgShbJR#vnF6UZcSaSs_ZCepUzPTq4od-3Y6pot8IgsnhdZNbYU
-https://mega.nz/file/UZZwRQqZ#xCbH5a2k3390TOZ9NFs12h5STZJx3dIa1lJ_Bv71JhI
-https://mega.nz/file/QZ51SYRR#GPpPHutRdPuKRcRk0mURMyQEh9L1uNYHd_HJqNGDcXo
-https://mega.nz/file/tBpRGL7a#C9g52Ehz0k-_-c-ZiaREwL2wugGmdyq44LxxFka62K8
-https://mega.nz/file/JdQSnYyZ#aqI-q9lbsluZgDCNqCaW0l8GP52J7r9MxDdMGDvqutw
+https://mega.nz/file/bEdCHLBD#VWTMU53sC_bLvaasVyGAMDK4lnhah51xdzUsyy6YUpw
+https://mega.nz/file/yRVFVQIB#_oaiAk3OCs3uYwsw7QkXFZdb5moXr6huUnLiCVgHgfs
+https://mega.nz/file/XItyTBgT#Y87VAVxEv21WRmifDymphcVTJX8yzK7uUzoSaek7gd4

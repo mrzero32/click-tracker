@@ -1,4 +1,4 @@
-START=August 03, 2025 01:00:00 GMT+0500   aaaa
+START=August 03, 2025 13:30:00 GMT+0500 
 INTERVAL=5 
 
 https://mega.nz/file/3VNT2BCB#SNF-qxGOJ8bSbMMFv7vSwUP8AnXzj-U0UbNolnUsgYQ

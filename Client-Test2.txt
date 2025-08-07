@@ -1,4 +1,4 @@
-START=August 07, 2025 18:07:00 GMT+0500
+START=August 07, 2025 18:07:00 GMT+0500  paused
 INTERVAL=5 
 
 https://mega.nz/file/tBpDCJBK#HSufPlfdwUBO8ryRIEH2LY5OkjCy9wrGgp20etecuGM
